@@ -5,7 +5,7 @@ type: post
 description: Create Book
 parameters:
   - name: title
-    content: The title for the book
+    content: Moby Dick
   - name: score
     content: The book's score between 0 and 5
 content_markdown: |-
